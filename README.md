@@ -1,6 +1,6 @@
 # Udacity Project Udagram Image Filtering Microservice
 
-#Please Find In This Root Repository
+#Please Find In This Deployment Screenshots directory
 
 #A screenshot of the elastic beanstalk application dashboard after deployement (Screenshot.png)
 
